@@ -4,7 +4,7 @@ El-Haram, Giza | +201060466304 | [Gmail](mailto:mostafa.amer.soliman@gmail.com) 
 
 ## Professional Summary
 
-Motivated Software Engineer with over 3 years of experience in .NET development, passionate about tackling complex challenges and constantly expanding technical knowledge through self-learning. Adept at building and maintaining scalable, high-performance applications that meet user needs and business goals. Known for working effectively with cross-functional teams to deliver innovative solutions. Continuously striving for growth and improvement, eager to apply my skills and enthusiasm to drive success in dynamic, fast-paced environments
+Motivated Software Engineer with over 2 years of experience in .NET development, passionate about tackling complex challenges and constantly expanding technical knowledge through self-learning. Adept at building and maintaining scalable, high-performance applications that meet user needs and business goals. Known for working effectively with cross-functional teams to deliver innovative solutions. Continuously striving for growth and improvement, eager to apply my skills and enthusiasm to drive success in dynamic, fast-paced environments
 
 ---
 
